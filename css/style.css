@@ -1,0 +1,109 @@
+body { 
+	-webkit-font-smoothing: antialiased;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.6rem;
+}
+
+h1 {
+	margin-bottom: 3rem;
+	color: white;
+	font-size: 6rem;
+	padding: 2rem;
+	font-family: 'Raleway';
+}
+
+.logo {
+	font-size: 5rem;
+	color: #FF7500;
+	background: #27211E;
+	border-radius: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 3rem;
+}
+
+.bg-dark {
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border: 1px solid #333;
+	background: #333;
+	border: none;
+}
+
+.point:hover {
+	cursor: pointer; 
+}
+
+
+.btn-danger {
+	font-size: 1.6rem;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-weight: bold;
+	border-radius: 9px;
+	letter-spacing: 1px;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+
+.fa-university {
+	font-size: 5rem;
+}
+
+svg { 
+	margin: 0 auto;
+}
+
+.information{
+	
+	padding: 2rem;
+	margin: 0 auto;
+	margin-left: 50px;
+	display: inline-block;
+	text-align: left;
+	color: #22313F;
+	font-size: 1.8rem;
+	
+}
+
+.title {
+	text-align: center;
+	font-size: 2.4rem;
+	color: #22313F;
+	border-bottom: 1px solid #22313F;
+	margin-bottom: 20px;
+}
+.university {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.2rem;
+	letter-spacing: 1px;
+}
+
+.loc8 {
+	font-size: 1.4rem;
+	font-weight: bold;
+	
+}
+
+
+#location {
+	height: 550px;
+	border: solid;
+	border-radius: 9px;
+	width: 81%;
+	margin-bottom: 18px;
+	margin-left: 10px;
+	padding-left: 20px;
+}
+
+
+.margin-bottom {
+	margin-bottom: 3rem;
+}
+.margin-top {
+	margin-top: 3rem;
+}
